@@ -1,0 +1,16 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "tsc": "tsc",
+    "serve": "tsc --watch"
+  },
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.8.3"
+  }
+}
